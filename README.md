@@ -1,6 +1,10 @@
 
 # gRPC Say Hello
 
+<h1 align="center">
+  <img src="./assets/banner.webp" alt="Box" width="600px" />
+</h1>
+
 Este projeto demonstra uma aplicação simples usando gRPC com comunicação entre múltiplos servidores e clientes em Rust. Ele permite que você inicie múltiplos servidores gRPC em diferentes portas e que envie mensagens entre eles via terminal.
 
 ## Como Rodar
